@@ -22,8 +22,8 @@ const Experience = lazy(() => import("@/components/Experiece"));
 const OPTIONS = { loop: true };
 const projects = [
   {
-    image: "/tour.png",
-    title: "Morocco Tour",
+    image: "/whatsapClone.png",
+    title: "Whatsapp Clone",
     description:
       "Like so many organizations these days, Autodesk is a company in transition. It was until recently a traditional boxed software company selling licenses. Yet its own business model disruption is only part of the story",
     type: "web app",

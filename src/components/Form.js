@@ -24,7 +24,7 @@ function Form() {
   const sendEmail = (obj) => {
     setLoad(true);
     emailjs.init({
-      publicKey: "8Cwvsof5QtYu4nIGq", // must add public key and connect your gmail with email.js
+      publicKey: "RcW0-KmcliZvnFFsU", // must add public key and connect your gmail with email.js
       blockHeadless: true,
       blockList: {
         list: ["foo@emailjs.com", "bar@emailjs.com"],
@@ -36,7 +36,7 @@ function Form() {
       },
     });
     emailjs
-      .send("service_h3v51k5", "template_1nwrqv3", obj)  //  add your service key and template id
+      .send("service_bhl55fv", "template_zas4wej", obj)  //  add your service key and template id
       .then((response) => {
         toast.success("sent successfully", {
           theme: "dark",

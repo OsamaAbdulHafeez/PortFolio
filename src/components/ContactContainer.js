@@ -23,9 +23,9 @@ function ContactContainer() {
             <span className="nunito text-custom-400">Mail me at</span>
             <br />
             <Typography component="a"
-              href="mailto:osamahafeezkhatri@gmail.com"
+              href="mailto:osamahafeez0987@gmail.com"
               className="nunito tracking-wider cursor-pointer text-custom-400">
-              osamahafeezkhatri@gmail.com
+              osamahafeez0987@gmail.com
             </Typography>
           </div>
         </div>

@@ -296,7 +296,7 @@ export default function NavigationBar({ scrollFunction }) {
           </div>
           <div className="hidden gap-2 lg:flex">
             <Avatar
-              src="/avatar.png"
+              src="/myImage.jfif"
               alt="avatar"
               variant="rounded"
               size="sm"
@@ -319,7 +319,7 @@ export default function NavigationBar({ scrollFunction }) {
           <NavList scrollFunction={scrollFunction} />
           <div className="flex w-full flex-nowrap items-center gap-2 lg:hidden">
             <Avatar
-              src="/avatar.png"
+              src="/myImage.jfif"
               alt="avatar"
               variant="rounded"
               size="sm"
