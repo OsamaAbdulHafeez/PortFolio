@@ -54,7 +54,7 @@ export default function HomeCarousel({scrollFunction}) {
                 }}>
                 Contact me
               </div>
-              <a href="/Osama.pdf" download className="uppercase py-2 px-4 rounded-lg bg-transparent border-2 border-custom-500 text-custom-500 dark:text-white hover:bg-custom-300 hover:text-white text-md">
+              <a href="/OsamaResume.pdf" download className="uppercase py-2 px-4 rounded-lg bg-transparent border-2 border-custom-500 text-custom-500 dark:text-white hover:bg-custom-300 hover:text-white text-md">
                 Download my resume
               </a>
             </div>
