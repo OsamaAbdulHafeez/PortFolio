@@ -29,15 +29,15 @@ const projects = [
     type: "web app",
   },
   {
-    image: "/landing.png",
-    title: "OST",
+    image: "/schoolLineUp.png",
+    title: "Student Attendance",
     description:
       "Like so many organizations these days, Autodesk is a company in transition. It was until recently a traditional boxed software company selling licenses. Yet its own business model disruption is only part of the story",
     type: "landing page",
   },
   {
-    image: "/e-commerce.png",
-    title: "E-Commerce",
+    image: "/movieApp.png",
+    title: "Movie App",
     description:
       "Like so many organizations these days, Autodesk is a company in transition. It was until recently a traditional boxed software company selling licenses. Yet its own business model disruption is only part of the story",
     type: "web app",
