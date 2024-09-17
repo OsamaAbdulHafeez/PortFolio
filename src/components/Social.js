@@ -7,7 +7,7 @@ function Social() {
   return (
     <ul className="wrapper">
       <a
-        href="https://www.facebook.com/people/Sharjeel-Hussain/61551475233524/"
+        href="https://www.facebook.com/profile.php?id=100009943271021"
         target="_blank"
       >
         <li className="icon facebook">
@@ -21,7 +21,7 @@ function Social() {
           <FaLinkedin className="twitter"/>
         </li>
       </a>
-      <a href="https://www.instagram.com/sharjeelhussain877/" target="_blank">
+      <a href="https://www.instagram.com/osama_abdul_hafeez/" target="_blank">
       <li className="icon instagram">
         <span className="tooltip">Instagram</span>
         <FaInstagram 
